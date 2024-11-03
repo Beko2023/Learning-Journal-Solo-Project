@@ -1,3 +1,5 @@
+A solo project to practice responsive design using media queries.
+
 Wider Screen View;
 
 ![image](https://github.com/user-attachments/assets/ed89724f-5f33-4d87-aec0-84312ecd99ac)
